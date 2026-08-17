@@ -1,4 +1,3 @@
-
 ===== CYBER THREAT LOG REPORT =====
 Name: Jerome Orven B. Dela Rosa
 Handle: GhostPatchdev
